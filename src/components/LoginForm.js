@@ -3,7 +3,7 @@ import axios from "axios";
 
 const projectID = "4a85c290-8e5f-49e0-bf08-698da80add55";
 
-const Modal = () => {
+const LoginForm = () => {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
@@ -65,4 +65,4 @@ const Modal = () => {
   );
 };
 
-export default Modal;
+export default LoginForm;
