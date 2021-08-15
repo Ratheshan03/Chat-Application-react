@@ -1,3 +1,12 @@
+## Simple Chat Application 📱
+
+Real-time chats with user login authentication.
+React JS is the programming language of choice, and Chat Engine is a set of APIs and UI Kit specific to chat.
+Link to the Deployed version: https://rathe-chat-application.netlify.app/ 
+
+## If u liked my projects and the code was useful to you, feel free to leave a star (much appreciated 😃), fork it and customize the projects as you like! :)
+-Thankyou.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
